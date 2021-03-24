@@ -1,0 +1,2 @@
+string = input("Введите некоторый текст :\n")
+print("Количество вхождений гласных: "+"a - "+str(string.count('a'))+", "+"o - "+str(string.count('o'))+", "+"u - "+str(string.count('u'))+", "+"i - "+str(string.count('i'))+", "+"e - "+str(string.count('e'))+", "+"y - "+str(string.count('y')))
